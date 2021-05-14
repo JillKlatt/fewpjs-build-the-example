@@ -4,6 +4,9 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
+const error = document.querySelector('#modal')
+error.setAttribute('class', 'hidden')
+
 
 
 
